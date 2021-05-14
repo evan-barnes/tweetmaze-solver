@@ -1,4 +1,4 @@
-maze_string = '7347737258493420'
+maze_string = '3531440'
 
 '''Copy and paste maze strings into the above to change which maze is being run.
 Other maze strings to play with:
